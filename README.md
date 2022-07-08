@@ -1,14 +1,11 @@
-# W22_CIS3760_Team4 - Sprint 9
+# University Course Utility
 
   
 <!-- ABOUT SECTION -->
 
 ## About
 
-Sprint 9 involves further refining and adding a "drop course" function to the graphing feature of our 
-project.
-
-
+React web-app with a Python back-end, hosted using Flask and NGINX. A simple utility that compiles all courses for University of Guelph and Waterloo into JSON databases. Can be used to search for courses and create interactive graphs of courses, subjects and majors.
 
 ### Prerequisites
 
