@@ -5,6 +5,8 @@
 
 ## About
 
+Group project for a university software engineering course. 
+
 React web-app with a Python back-end, hosted using Flask and NGINX. A simple utility that compiles all courses for University of Guelph and Waterloo into JSON databases. Can be used to search for courses and create interactive graphs of courses, subjects and majors.
 
 ### Prerequisites
